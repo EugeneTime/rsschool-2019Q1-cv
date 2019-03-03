@@ -1,13 +1,13 @@
 <div align="center">
-  <h1>EUGENE NEDELSKI</h1>
+  <h1>EVGENIY KHOMENKOV</h1>
 </div>
 
 <div align="right">
   <h2>CONTACTS</h2>
-  <a href="tel:+375445734330">+375 (44) 573-43-30</a> <br>
-  <a href="mailto:eugenetime@bk.ru">eugenetime@bk.ru</a> <br>
-  https://vk.com/eugenetime <br>
-  https://github.com/EugeneTime <br>
+  <a href="tel:+375445734330">+375 (44) 573-43-30</a><br>
+  <a href="mailto:eugenetime@bk.ru">eugenetime@bk.ru</a><br>
+  <a href="https://vk.com/eugenetime">https://vk.com/eugenetime</a><br>
+  <a href="https://github.com/EugeneTime">https://github.com/EugeneTime</a>
 </div>
 
 ---
@@ -39,11 +39,11 @@
 * [Brackets](https://github.com/EugeneTime/additional_5/blob/master/src/index.js)
 * [Quadratic-equation](https://github.com/EugeneTime/quadratic-equation/blob/master/src/index.js)
 * [Sorter](https://github.com/EugeneTime/sorter/blob/master/src/index.js)
-* etc: https://github.com/EugeneTime.
+* etc: [https://github.com/EugeneTime](https://github.com/EugeneTime).
 
 ## EXPERIENCE
 * **The Rolling Scopes School**: Javascript/Front-end.
-* **Website administration**: CMS, teamwork, SEO, etc.
+* **Website administrator**: CMS, teamwork, SEO, etc.
 * **Content manager and copywriter**.
 * **Search Engine Optimization**.
 * **PC diagnostics**.
