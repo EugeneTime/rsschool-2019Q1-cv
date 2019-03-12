@@ -72,3 +72,52 @@ body {
   list-style: none;
   line-height: 1.9;
 }
+
+/* Main */
+
+.main {
+  display: flex;
+  max-width: 1024px; 
+  background-color: #fff;
+  width: 100%;
+  position: absolute;
+  margin-bottom: 10px;
+}
+
+.main__box {
+  width: 50%;
+  padding: 35px;
+}
+
+.main__box--left {
+  padding-left: 45px;
+}
+
+.main__box--right {
+  padding-right: 45px;
+}
+
+.info {
+  padding-bottom: 32px;
+}
+
+.info--last {
+  padding-bottom: 0;
+}
+
+.info__header {
+  color: #479099;
+  font-weight: bold;
+  font-size: 24px;
+  padding-bottom: 8px;
+  text-transform: uppercase
+}
+
+.info__text {
+  margin-bottom: 16px;
+}
+
+.info__list {
+  list-style-position: inside;
+  list-style-type: circle;
+}
