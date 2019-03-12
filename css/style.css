@@ -9,19 +9,17 @@ body {
   position: relative;
   width: 900px;
   margin: 0 auto;
-  font-family: "Ubuntu", sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
-  background-color: #303D46;
+  font: 16px/1.5 "Ubuntu", sans-serif;
   color: #333333;
+  background-color: #303D46;
 }
 
 /* Header */
 
 .main-header {
+  margin-top: 10px;
   max-width: 1024px;
   min-height: 190px;
-  margin-top: 10px;
   background-color: #fff;;
   border-bottom: 4px solid #303D46;
 }
@@ -39,17 +37,17 @@ body {
 }
 
 .about__header {
-  color: #479099;
-  font-size: 30px;
   padding-bottom: 8px;
+  font-size: 30px;
+  color: #479099;
 }
 
 .about__logo {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 0 auto;
   width: 27%; 
+  margin: 0 auto;
 }
 
 .about__photo {
@@ -79,10 +77,8 @@ body {
 .main {
   display: flex;
   max-width: 1024px; 
-  background-color: #fff;
-  width: 100%;
-  position: absolute;
   margin-bottom: 10px;
+  background-color: #fff;
 }
 
 .main__box {
@@ -107,11 +103,11 @@ body {
 }
 
 .info__header {
-  color: #479099;
+  padding-bottom: 8px;
   font-weight: bold;
   font-size: 24px;
-  padding-bottom: 8px;
-  text-transform: uppercase
+  text-transform: uppercase;
+  color: #479099;
 }
 
 .info__text {
@@ -119,6 +115,5 @@ body {
 }
 
 .info__list {
-  list-style-position: inside;
-  list-style-type: circle;
+  list-style: inside circle;
 }
